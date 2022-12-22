@@ -1,4 +1,6 @@
-h2 {
+h2 { 
     background-color: rgb(101, 155, 155);
     color: aliceblue;
 }
+li{ margin: 25px;
+padding: 15 px;}
